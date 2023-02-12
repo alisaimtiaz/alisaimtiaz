@@ -3,7 +3,7 @@
 <br/>
 
 - 🔭 I’m currently working on becoming a software developer
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alisa-g-140715150)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to cook! 👩‍🍳
